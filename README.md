@@ -1,5 +1,6 @@
 ### Hi there 👋
-- I’m currently working on [Platypus OS](https://github.com/Platypus-Tech/platypus-os)
+- I’m currently working on [Kinux Kernel](https://github.com/kushagra765/kinux-kernel)
+- I’m looking to collaborate on Kinux Kernel
 - I’m currently learning C#
 - Ask me about Linux
 
