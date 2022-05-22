@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I’m currently working on [Kinux Kernel](https://github.com/kushagra765/kinux-kernel)
+- I’m currently working on [Kinux Kernel](https://github.com/kushagra765/kinux-kernel), [Platypus OS](https://github.com/Platypus-Tech/platypus-os) and [Linux Kernel USB](https://git.kernel.org/pub/scm/linux/kernel/git/gregkh/usb.git/) 
 - I’m looking to collaborate on Kinux Kernel
 - Ask me about Linux
 
