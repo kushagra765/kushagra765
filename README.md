@@ -1,6 +1,5 @@
 ### Hi there 👋
-- I’m currently working on [Platypus OS](https://github.com/Platypus-Tech/platypus-os) and [Linux Kernel USB](https://git.kernel.org/pub/scm/linux/kernel/git/gregkh/usb.git/) 
-- I’m looking to collaborate on Platypus OS
+- I’m currently working on a personal chat website
 - Ask me about Linux
 
 ### GitHub Stats
